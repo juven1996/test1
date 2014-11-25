@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\JuvenArdine\Desktop\BCIT\1510\Assignments\assignment 1\COMP1510-assign-1-template\.metadata\.plugins\org.eclipse.jdt.core
+2298399051.index
